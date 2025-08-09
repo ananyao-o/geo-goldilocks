@@ -1,0 +1,7 @@
+{
+    "exclude_land_types": [
+        "wetland", "urban"
+    ],
+    "max_slope": 25,
+    "min_distance_from_each_other_km": 2
+}
